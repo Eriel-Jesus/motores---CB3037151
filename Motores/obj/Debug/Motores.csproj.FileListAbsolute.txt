@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Motores\Motores\bin\Debug\Motores.exe.config
+C:\Users\aluno\source\repos\Motores\Motores\bin\Debug\Motores.exe
+C:\Users\aluno\source\repos\Motores\Motores\bin\Debug\Motores.pdb
+C:\Users\aluno\source\repos\Motores\Motores\obj\Debug\Motores.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Motores\Motores\obj\Debug\Motores.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\Motores\Motores\obj\Debug\Motores.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Motores\Motores\obj\Debug\Motores.exe
+C:\Users\aluno\source\repos\Motores\Motores\obj\Debug\Motores.pdb
